@@ -1,0 +1,14 @@
+div {
+    width: 300px;
+    border: 25px solid red;
+    outline: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+.four {
+    width: 150px;
+    border: 25px solid purple;
+    outline: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
